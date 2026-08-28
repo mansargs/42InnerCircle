@@ -11,3 +11,4 @@ A consolidated workspace containing multiple C and C++ projects from the 42 curr
 - **Inception**: Container-oriented project with docs in `Inception/README.md`. See [Inception/README.md](Inception/README.md#L1).
 - **Minitalk**: Simple IPC using signals. See [Minitalk/README.md](Minitalk/README.md#L1).
 - **Push_swap**: Sorting algorithm project (mandatory + bonus). See [Push_swap/README.md](Push_swap/README.md#L1).
+- **Philosophers**: Dining Philosophers concurrency project (`philo` and `philo_bonus`). Build with `make` in the `philosophers` directory. See [philosophers/README.md](philosophers/README.md#L1).
